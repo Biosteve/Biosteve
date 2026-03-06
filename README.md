@@ -1,4 +1,4 @@
-- ☣️ Hi, I’m @Biosteve
+- ☣️ Hi, I’m Biosteve
 - 🐠 I am a PhD holder in Biology, interested in Data science & machine learning to combine with my PhD knowledge/skills
 - 💻 Currently I am studying at the MSc course "Applied Bioinformatics and Data Analysis" at Democritus University of Thrace
 - 💥 I’m looking to collaborate on projects that use Data analysis and machine learning on problems with Biological application
